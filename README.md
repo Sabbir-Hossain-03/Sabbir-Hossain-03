@@ -138,26 +138,6 @@ C++ • OOP
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Sabbir-Hossain-03&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Sabbir's GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
