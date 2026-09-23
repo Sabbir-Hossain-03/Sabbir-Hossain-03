@@ -12,17 +12,18 @@ Software Developer | AI & ML Enthusiast
 
 ## 👨‍💻 About Me
 
-I’m a final-semester CSE student passionate about Software Development, 
-Artificial Intelligence, and Machine Learning. With strong academic performance, 
-hands-on development experience, and research exposure through a conference paper, 
-I enjoy turning ideas into practical, real-world applications.
+I'm a final-semester CSE student passionate about Software Development,
+Artificial Intelligence, and Machine Learning. With strong academic
+performance, hands-on development experience, and research exposure
+through a conference paper, I enjoy turning ideas into practical,
+real-world applications.
 
 - 🎓 Computer Science student
 - 💻 Interested in Full-Stack Web Development
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 👁️ Interested in Computer Vision
 - 🔬 Interested in AI research
-- 🚀 Always try to learn new things
+- 🚀 Always learning and building new things
 
 ---
 
@@ -30,7 +31,7 @@ I enjoy turning ideas into practical, real-world applications.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=C#,html,css,js,nextjs,php,python,dotnet,mysql,postgres,oracle,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,python,cs,dotnet,mysql,postgres,oracle,git,github,vscode,postman" />
 
 </p>
 
@@ -38,63 +39,146 @@ I enjoy turning ideas into practical, real-world applications.
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### ✈️ Avestra Travel
 
-A travel agency web application for managing travel
-destinations, hotels, tour packages and bookings.
+A travel agency web application for managing destinations,
+hotels, tour packages and bookings.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+**Tech Stack**
 
----
+PHP • MySQL • HTML • CSS • JavaScript
 
-### 🏠 Real Estate Management System
+</td>
 
-A property management system developed using C#.
+<td width="50%">
 
-**Technologies:** C#, .NET
+### 🏠 Real Estate Management
 
----
+A property management system developed using C# and .NET.
+
+**Tech Stack**
+
+C# • .NET
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 👨‍⚕️ DoctorsDen
 
-A doctor appointment management application.
+A doctor appointment management application designed
+for connecting patients and doctors.
 
-**Technologies:** Kotlin, Firebase
+**Tech Stack**
 
----
+Kotlin • Firebase
+
+</td>
+
+<td width="50%">
 
 ### 💻 DevArena
 
-A programming contest and online judge platform.
+A programming contest and online judge platform
+for hosting contests and evaluating submissions.
 
-**Technologies:** C#, ASP.NET MVC
+**Tech Stack**
 
----
+C# • ASP.NET MVC
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🧠 CNN Sign Language
 
-CNN-based sign language recognition using the MNIST
-sign language dataset.
+A CNN-based sign language recognition project using
+the MNIST Sign Language dataset.
 
-**Technologies:** Python, Jupyter Notebook, CNN
+**Tech Stack**
+
+Python • Jupyter Notebook • CNN
+
+</td>
+
+<td width="50%">
+
+### 💳 Banking Management System
+
+A banking management application developed to handle
+customers, accounts and banking operations.
+
+**Tech Stack**
+
+C++ • OOP
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🔬 Research Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 🌾 AI-based Crop Disease Detection
+- 🩺 Medical Image Analysis
+- 📊 Predictive Analytics
+- 🗣️ AI & Natural Language Processing
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabbir-Hossain-03&show_icons=true&theme=tokyonight" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Sabbir-Hossain-03&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Sabbir's GitHub Stats"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
 </p>
 
 ---
 
-## 📈 Top Languages
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-03&layout=compact&theme=tokyonight" />
+<img
+  src="https://streak-stats.demolab.com?user=Sabbir-Hossain-03&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sabbir-Hossain-03&theme=tokyo-night&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </p>
 
@@ -105,11 +189,30 @@ sign language dataset.
 <p align="center">
 
 <a href="https://github.com/Sabbir-Hossain-03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<a href="www.linkedin.com/in/sabbir-hossain03">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sabbir-hossain03">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Sabbir-Hossain-03&label=Profile%20Views&color=36BCF7&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
