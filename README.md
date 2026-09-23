@@ -161,12 +161,5 @@ C++ • OOP
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Sabbir-Hossain-03&label=Profile%20Views&color=36BCF7&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
-<p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
