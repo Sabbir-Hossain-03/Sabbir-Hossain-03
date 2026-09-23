@@ -15,7 +15,7 @@
 I'm a final-semester Computer Science & Engineering student passionate about Software Development, Artificial Intelligence, and Machine Learning. With strong academic performance, hands-on full-stack development experience, and conference research experience, I enjoy building practical, real-world systems.
 
 - 🎓 **Education:** Final-semester B.Sc. in Computer Science & Engineering
-- 💻 **Focus Areas:** Full-Stack Web Development & Embedded Systems
+- 💻 **Focus Areas:** Full-Stack Development, AI/ML & Embedded Systems
 - 🌱 **Currently Learning:** I’m currently exploring ASP.NET Core, NestJS, and React.
 - 🤖 **Research Interests:** Computer Vision, Medical Imaging
 - 📄 **Publications:** First author of a conference research paper on an IoT-based embedded system
