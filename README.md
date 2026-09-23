@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-semester Computer Science & Engineering student passionate about Software Development, Artificial Intelligence, and Machine Learning. With strong academic standing, hands-on full-stack development experience, and conference-level research exposure, I specialize in building practical, real-world systems.
+I'm a final-semester Computer Science & Engineering student passionate about Software Development, Artificial Intelligence, and Machine Learning. With strong academic performance, hands-on full-stack development experience, and conference research experience, I enjoy building practical, real-world systems.
 
 - 🎓 **Education:** Final-semester B.Sc. in Computer Science & Engineering
 - 💻 **Focus Areas:** Full-Stack Web Development & Embedded Systems
