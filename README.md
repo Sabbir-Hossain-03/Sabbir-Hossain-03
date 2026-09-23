@@ -33,7 +33,7 @@ I'm a final-semester Computer Science & Engineering student passionate about Sof
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabbir-Hossain-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sabbir's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir-Hossain-03&theme=tokyonight&hide_border=true" alt="Sabbir's GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Hossain-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
