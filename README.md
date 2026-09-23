@@ -16,7 +16,7 @@ I'm a final-semester Computer Science & Engineering student passionate about Sof
 
 - 🎓 **Education:** Final-semester B.Sc. in Computer Science & Engineering
 - 💻 **Focus Areas:** Full-Stack Web Development & Embedded Systems
-- 🌱 **Currently Learning:** : I’m currently exploring ASP.NET Core, NestJS, and React.
+- 🌱 **Currently Learning:** I’m currently exploring ASP.NET Core, NestJS, and React.
 - 🤖 **Research Interests:** Computer Vision, Medical Imaging
 - 📄 **Publications:** First author of a conference research paper on an IoT-based embedded system
 - 🚀 **Goal:** Building scalable software solutions and edge-computing applications
