@@ -43,7 +43,7 @@ I'm a final-semester Computer Science & Engineering student passionate about Sof
     <td width="50%" valign="top">
       <b>💻 DevArena</b>
       <p><sub style="font-size: 13px;">Automated programming contest platform featuring online judge evaluation and moderation.</sub></p>
-      <sub style="font-size: 12px;"><b>Tech:</b> C# • ASP.NET MVC • SQL Server</sub>
+      <sub style="font-size: 12px;"><b>Tech:</b> C# • ASP.NET MVC • Microsoft SQL Server</sub>
     </td>
   </tr>
   <tr>
