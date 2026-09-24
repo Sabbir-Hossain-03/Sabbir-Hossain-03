@@ -26,7 +26,7 @@ I'm a final-semester Computer Science & Engineering student passionate about Sof
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,py,js,html,css,react,nextjs,php,kotlin,mysql,postgres,oracle,git,github,vscode,postman,figma" alt="Skill Icons" height="80" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,py,js,html,css,react,nextjs,php,kotlin,mysql,postgres,git,github,vscode,postman,figma" alt="Skill Icons" height="80" />
 </p>
 
 ---
